@@ -3,8 +3,7 @@ body {
 	color: #40514E;
 	margin: 0;
 	text-align: center;
-	font-family: 'verdana', sans-serif;
-	
+	font-family: 'verdana', sans-serif;	
 }
 
 h1 {
@@ -13,7 +12,6 @@ h1 {
  font-size: 5.625rem;
  line-height: 2;
  font-family: 'Sacramento', cursive;
-
 }
 
 
@@ -31,7 +29,6 @@ h3 {
 
 div {
 	background-color: white;
-	
 }
 
 hr {
@@ -73,7 +70,6 @@ a:hover {
 	background-color: #66BFBF;
 	padding-top: 50px;
 	colour: #66BFBF;
-	
 }
 
 .pro {
@@ -99,6 +95,10 @@ a:hover {
 	line-height: 2;
 }
 
+.contact-me{
+	font-size: 100%;
+}
+
 .contact-message {
 	width: 40%;
 	margin: 40px auto  60px;
@@ -119,10 +119,12 @@ a:hover {
 	text-decoration:none;
 	text-shadow:0px 1px 0px #3d768a;
 }
+
 .myButton:hover {
 	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
 	background-color:#408c99;
 }
+
 .myButton:active {
 	position:relative;
 	top:1px;
