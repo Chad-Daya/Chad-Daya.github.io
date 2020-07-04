@@ -132,5 +132,7 @@ a:hover {
 	color: white;
 	font-size: 0.75rem;
 	padding: 20px 0;
+	width: 40%;
+	margin: 40px auto  60px;
 }
 
